@@ -1,0 +1,17 @@
+.left_content {
+  display: inline-flex;
+  width: 100%;
+}
+
+.detail {
+  margin-left: 10%;
+  width: 40%;
+  height: 200px;
+  border: 2px solid blue;
+  margin-top: 10%;
+  padding: 10px;
+}
+
+.cursor {
+  cursor: pointer;
+}
